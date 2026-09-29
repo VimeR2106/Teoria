@@ -1,0 +1,22 @@
+D:\Roma\Теория информации\Code\Lab_2\Lab2\bin\Debug\Samples\skorogovorka.txt
+D:\Roma\Теория информации\Code\Lab_2\Lab2\bin\Debug\Samples\bigtext.txt
+D:\Roma\Теория информации\Code\Lab_2\Lab2\bin\Debug\Lab2.exe.config
+D:\Roma\Теория информации\Code\Lab_2\Lab2\bin\Debug\Lab2.exe
+D:\Roma\Теория информации\Code\Lab_2\Lab2\bin\Debug\Lab2.pdb
+D:\Roma\Теория информации\Code\Lab_2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Roma\Теория информации\Code\Lab_2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Roma\Теория информации\Code\Lab_2\Lab2\obj\Debug\Lab2.exe
+D:\Roma\Теория информации\Code\Lab_2\Lab2\obj\Debug\Lab2.pdb
+D:\Roma\Теория информации\Code\Lab_2\Lab2\obj\Debug\Lab2.exe.config
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\bin\Debug\Samples\skorogovorka.txt
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\bin\Debug\Samples\bigtext.txt
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\obj\Debug\Lab2.exe.config
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\obj\Debug\Lab2.FormMain.resources
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Admin\Desktop\Code\Lab_2\Lab2\obj\Debug\Lab2.pdb
